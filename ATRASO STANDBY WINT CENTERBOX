@@ -1,0 +1,5 @@
+# Acessa o servidor de standby
+# Entra como root
+# Reinicia o serviço do dbassist com o seguinte comando: service dbassist_wint stop (talvez seja necessário executar mais de uma vez)
+# Em seguida inicia novamente: service dbassist_wint start
+# Depois disso espera um tempo que ele tende a sincronizar
